@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4BoyutluKadastroUygulamasi", "4BoyutluKadastroUygulamasi\4BoyutluKadastroUygulamasi.csproj", "{9FA1451D-E585-46A1-85C2-9D4947F093A1}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "4BoyutluHaritaKadastroUygulamasiSetup", "4BoyutluHaritaKadastroUygulamasiSetup\4BoyutluHaritaKadastroUygulamasiSetup.vdproj", "{A88ED5C0-79C9-4F3B-8441-DE567648458A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FA1451D-E585-46A1-85C2-9D4947F093A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FA1451D-E585-46A1-85C2-9D4947F093A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FA1451D-E585-46A1-85C2-9D4947F093A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FA1451D-E585-46A1-85C2-9D4947F093A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A88ED5C0-79C9-4F3B-8441-DE567648458A}.Debug|Any CPU.ActiveCfg = Debug
+		{A88ED5C0-79C9-4F3B-8441-DE567648458A}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53D68EE0-9DE0-42CE-BDE1-2CB0C7E06D52}
+	EndGlobalSection
+EndGlobal
